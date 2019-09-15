@@ -7,4 +7,3 @@ This is siddharth singh's portfolio
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://dbarochiya.github.io/me/
